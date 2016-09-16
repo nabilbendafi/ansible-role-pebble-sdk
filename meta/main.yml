@@ -1,0 +1,14 @@
+galaxy_info:
+  author: Nabil Bendafi
+  description: Ansible role to build open-source SDK for Pebble apps development
+  company:
+  license: MIT
+  min_ansible_version: 1.2
+
+  platforms:
+  - name: Ubuntu
+    versions:
+    - precise
+    - trusty
+  galaxy_tags: []
+    - development
