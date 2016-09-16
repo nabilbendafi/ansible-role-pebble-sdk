@@ -1,26 +1,26 @@
 pebble-sdk
 ==========
 
-[![Build Status](https://travis-ci.org/nabilbendafi/ansible-role-peeble-sdk.png?branch=master)](https://travis-ci.org/nabilbendafi/ansible-role-peeble-sdk)
+[![Build Status](https://travis-ci.org/nabilbendafi/ansible-role-pebble-sdk.png?branch=master)](https://travis-ci.org/nabilbendafi/ansible-role-pebble-sdk)
 
-This role installs and configures the open-source [peeble-sdk](https://developer.pebble.com/sdk/) for Peeble apps development.
+This role installs and configures the open-source [pebble-sdk](https://developer.pebble.com/sdk/) for Peeble apps development.
 
 Installation
 ------------
 
 ```
-$ ansible-galaxy install nabilbendafi.peeble-sdk
+$ ansible-galaxy install nabilbendafi.pebble-sdk
 ```
 
 ```
-# peeble-sdk.yml
+# pebble-sdk.yml
 - hosts: localhost
   roles:
-    - nabilbendafi.peeble-sdk
+    - nabilbendafi.pebble-sdk
 ```
 
 ```
-$ ansible-playbook peeble-sdk.yml
+$ ansible-playbook pebble-sdk.yml
 ```
 
 Dependencies
