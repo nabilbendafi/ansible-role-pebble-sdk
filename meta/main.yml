@@ -10,5 +10,5 @@ galaxy_info:
     versions:
     - precise
     - trusty
-  galaxy_tags: []
+  galaxy_tags:
     - development
