@@ -12,3 +12,4 @@ galaxy_info:
     - trusty
   galaxy_tags:
     - development
+dependencies: []
